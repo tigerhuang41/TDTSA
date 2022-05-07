@@ -7,7 +7,7 @@ import java.time.zone.ZoneOffsetTransition;
 import java.time.zone.ZoneRules;
 
 
-public class ZonedDateTimeExample {
+public class TimeDateT {
 
     private static final String DATE_FORMAT = "MM/dd/yyyy hh:mm:ss a EEEE";
 
