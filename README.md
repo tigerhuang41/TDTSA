@@ -32,8 +32,8 @@ output shown below：
  ![ND9EZ$N%LLJ5TD E@)LR8_3](https://user-images.githubusercontent.com/62952998/167272752-381ff527-8d39-424d-ba74-16a3cb24be3d.png)
  Everything taken into my consideration，
 
-|  Test case type  | Destription|
-| ------------- | ------------- |
-| initial requirement  | convert the time zone  |
-| second requirement |  adding the daylight-saving |
-|  third requirement |   support the day of the week |
+|  Test case type  | Destription|How to achieve|Completed data
+| ------------- | ------------- |---------------|
+| initial requirement  | convert the time zone  | import java library and Learn the abbreviations in the library for each time zone|  03/03/2022
+| second requirement |  adding the daylight-saving |import java library and output the specific date| 03/15/2022
+| third requirement |   support the day of the week |imoprt specifica day of week by using EEEE|04/28/2022
