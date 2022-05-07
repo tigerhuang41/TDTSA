@@ -21,17 +21,19 @@ Below are the start and end times of daylight saving time over 10 years.
 ![3D3@85{)N2WS}WD5`TQEEG0](https://user-images.githubusercontent.com/62952998/167272495-0dcf87cf-fd72-4f8e-a01a-db2a37e7604b.png)
 
 
+
 Finally，The third requirement change is to ask me to support the day of the week in
 the date time representation. So 03/09/2021 8:00 would become 03/09/2021 Tuesday 8:00.I only need to transform the format "MM/dd/yyyy hh:mm:ss a" I metioned above to 
  "MM/dd/yyyy hh:mm:ss a EEEE",I can meet this requirement.
  
  So far I have met the three requirements that need to be fulfilled.
  
- Everything taken into my consideration，
+output shown below：
  ![ND9EZ$N%LLJ5TD E@)LR8_3](https://user-images.githubusercontent.com/62952998/167272752-381ff527-8d39-424d-ba74-16a3cb24be3d.png)
+ Everything taken into my consideration，
 
-
-| First Header  | Second Header |
+|  Test case type  | Destription|
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| initial requirement  | convert the time zone  |
+| second requirement |  adding the daylight-saving |
+|  third requirement |   support the day of the week |
