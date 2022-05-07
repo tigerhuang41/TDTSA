@@ -38,3 +38,11 @@ output shown below：
 | initial requirement  | convert the time zone  | import java library and Learn the abbreviations in the library for each time zone|  03/03/2022 |Pass|
 | second requirement |  adding the daylight-saving |import java library and output the specific date| 03/15/2022 |Pass|
 | third requirement |   support the day of the week |imoprt specifica day of week by using EEEE|04/28/2022 |Pass|
+
+And the whole output shown,
+![EF5RP 3W5UQR1Z}Y2KD~9 1](https://user-images.githubusercontent.com/62952998/167273357-99071bc3-060b-42d9-8626-e6c02a417558.png)
+
+The unit_test output shown:
+
+![5HOB$7HQ}A57{Y59B15KL0C](https://user-images.githubusercontent.com/62952998/167273400-1bf7de33-3f42-4c62-9b54-fccdf30cb25a.png)
+
