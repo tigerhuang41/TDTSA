@@ -1,4 +1,4 @@
-# **Explaination and Testcase shown**
+# **Explaination and Test case shown**
 
 Date Time Transformation:
 In this project I need to write a program to transform the
