@@ -9,11 +9,11 @@ import java.time.zone.ZoneRules;
 
 public class TimeDateT {
 
-    private static final String DATE_FORMAT = "MM/dd/yyyy hh:mm:ss a EEEE";
+    private static final String DATE_FORMAT = "MM/dd/yyyy EEEE hh:mm:ss a ";
 
     public static void main(String[] args) {
 
-        String dateInString = "03/02/2022 10:51:55 AM Wednesday"; //input sample date
+        String dateInString = "03/02/2022 Wednesday 10:51:55 AM "; //input sample date
         LocalDateTime ldt = LocalDateTime.parse(dateInString, DateTimeFormatter.ofPattern(DATE_FORMAT));
 
         ZoneId singaporeZoneId = ZoneId.of("Asia/Singapore");
